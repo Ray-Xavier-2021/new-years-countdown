@@ -2,7 +2,7 @@
 
 This project was built by me using HTML, CSS and JS.
 
-![light-dark-mode](https://user-images.githubusercontent.com/78431899/222927908-b628506f-1c48-4f76-bd72-4d6d25a3928f.png)
+![new-years-countdown](https://user-images.githubusercontent.com/78431899/222934615-c8d48fdd-88b8-4df2-bda5-45be4d27df10.png)
 
 ## Technologies Used
 - HTML
