@@ -1,0 +1,46 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  display: flex;
+  width: 100vw;
+  height: 100vh;
+}
+
+.container {
+  background-color: #eee;
+  border-radius: 8px;
+  display: flex;
+  flex-direction: column;
+  margin: auto;
+  width: 600px;
+  height: 300px;
+}
+
+.title {
+  text-align: center;
+  margin: 20px 0;
+}
+
+.counter {
+  display: flex;
+  justify-content: center;
+  width: 100%;
+  margin: 0 auto;
+  padding: 10px;
+}
+
+.counter > div {
+  background-color: #fff;
+  border-radius: 4p;
+  font-size: 40px;
+  text-align: center;
+  color: #000;
+  width: 120px;
+  height: 100px;
+  margin: 10px;
+  padding: 22px;
+}
